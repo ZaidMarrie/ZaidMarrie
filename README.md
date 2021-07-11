@@ -1,6 +1,7 @@
-###Hi there👋, I’m ZaidMarrie.
+### Hi there👋, I’m ZaidMarrie.
 
-##I'm a web developer, software engineering student and passionate technology fan.
+## I'm a web developer, software engineering student and passionate technology fan.
+
 - I'm currently working on HTML, CSS and javascript.
 - I'm currently a software engineering student.
 - I'm currently learning everything about programming.
