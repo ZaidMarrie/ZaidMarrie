@@ -1,15 +1,19 @@
-### Hi there👋, I’m ZaidMarrie.
+# Hi there👋, I’m ZaidMarrie.
 
-## I'm a web developer, software engineering student and passionate technology fan.
+## I'm a Front-End enthusiast and designer
 
-- I'm currently working on HTML, CSS and javascript.
-- I'm currently a software engineering student.
-- I'm currently learning everything about programming.
+- I am a self-taught developer.
+- I enjoy creating websites using pure HTML & CSS.
+- I'm currently learning JavaScript.
 - I'm currently looking to collaborate with other content creators.
 - FunFact: I believe in kindness and enjoy helping others.
 - FunFact: I am passionate about technology.
 - FunFact: I like to solve problems and provide new solutions.
 
-##Connect with me.
+### Connect with me.
 
-##Languages and Tools.
+- [Twitter](https://twitter.com/LeKoels27)
+- [LinkedIn](https://www.linkedin.com/in/zaidmarrie27id/)
+
+### Languages and Tools.
+
