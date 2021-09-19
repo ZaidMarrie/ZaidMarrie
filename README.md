@@ -2,11 +2,11 @@
 
 ## A passionate frontend developer from South Africa
 
-- I am a self-taught developer.
+- :raised_hands: I am a self-taught developer.
   
 - 🌱 I’m currently learning **React**
   
-- I'm currently looking to collaborate with other content creators.
+- :raising_hand_man: I'm currently looking to collaborate with others.
   
 - ⚡ Fun fact **I enjoy creating cool animations**
   
