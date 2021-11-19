@@ -1,6 +1,6 @@
 # Hi there👋, I’m Zaid Marrie.
 
-## A passionate frontend developer from South Africa
+## A passionate Front-End developer from South Africa
 
 - :raised_hands: I am a self-taught developer.
   
