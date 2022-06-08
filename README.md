@@ -4,7 +4,7 @@
 
 - :raised_hands: I am a self-taught developer.
   
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **Python**.
 
 - 👀 I’m interested in **interactive web development**.
   
