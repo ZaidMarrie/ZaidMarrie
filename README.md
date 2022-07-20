@@ -1,35 +1,209 @@
-# Hello👋, I’m Zaid Marrie.
+# Hello World👋, I’m Zaid Marrie.
 
-I am a FrontEnd Web Developer with an interest in new technologies and tech stacks.
+---
 
-## A passionate Front-End developer from South Africa
+I'm a Web Developer based in _Johannesburg, South Africa_, with a passion for FrontEnd development.
 
-- :raised_hands: I am a self-taught developer.
-- 🌱 I’m currently learning **Node.js**
-- 👀 I’m interested in **interactive web development**.
-- 💞️ I'm currently looking to **collaborate with others**.
-- - 💬 Ask me about **React, JavaScript, HTML, CSS**
+## Some details about me
+
+- 🔭 I’m currently working on [My Portfolio](www.zaid-codes.dev).
+
+- 🌱 I’m currently learning **NodeJS**.
+
+- 👀 I have an interest in the **JAMstack**.
+
+- 💞️ Looking for opportunities to **collaborate with others**.
+
 - ⚡ Fun fact **I enjoy creating cool animations**
-- ⚡ Fun fact **I like to solve problems and provide new solutions**
-- - 📫 How to reach me **zaidkoel@email.co,**
-- 📄 Know about my experiences [zaidcodes.dev/about/resume.pdf](zaidcodes.dev/about/resume.pdf)
-- ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/lekoels27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lekoels27" height="30" width="40" /></a>
-<a href="https://twitter.com/lekoels27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lekoels27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zaid-marrie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaid-marrie" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/zaidmarrie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zaidmarrie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zaid marrie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zaid marrie" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lekoels27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lekoels27" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## Connect with me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidmarrie&show_icons=true&locale=en&layout=compact" alt="zaidmarrie" /></p>
+<div style="gap: 16px; display: flex; flex-wrap: wrap; align-items: center;">
+  <a href="https://linkedin.com/in/zaid-marrie" target="blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="Linked-In Logo;" 
+      height="30" 
+      width="40" 
+    />
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidmarrie&show_icons=true&locale=en" alt="zaidmarrie" /></p>
+  <a href="https://twitter.com/lekoels27" target="blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Logo;"
+      height="30"
+      width="40" 
+    />
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidmarrie&" alt="zaidmarrie" /></p>
+  <a href="https://codepen.io/lekoels27" target="blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Code Pen Logo;"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <a href="https://stackoverflow.com/users/zaidmarrie" target="blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
+      alt="Stack Overflow Logo;" 
+      height="30" 
+      width="40" 
+    />
+  </a>
+
+  <a href="https://www.leetcode.com/lekoels27" target="blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+      alt="Leet Code Logo;" 
+      height="30" 
+      width="40" 
+    />
+  </a>
+
+  <!--<a href="https://www.youtube.com/channel/UCqh0eKD58Rt3pjkjXYnIkUA" target="blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Logo;" 
+      height="30" 
+      width="40" 
+    />
+  </a>-->
+</div>
+
+---
+
+## Technologies and Tools:
+
+<div style="gap: 16px; display: flex; flex-wrap: wrap; align-items: center;">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+      alt="html5" 
+      width="40" 
+      height="40"
+    /> 
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+      alt="css3" 
+      width="40" 
+      height="40"
+    /> 
+  </a>
+
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
+      alt="bootstrap" 
+      width="40" 
+      height="40"
+    /> 
+  </a>
+
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
+      alt="sass" 
+      width="40" 
+      height="40"
+    /> 
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+      alt="javascript" 
+      width="40" 
+      height="40"
+    /> 
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+      alt="typescript" 
+      width="40" 
+      height="40"
+    /> 
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+      alt="react" 
+      width="40" 
+      height="40"
+    /> 
+  </a>
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" 
+    alt="nextjs" 
+    width="40" 
+    height="40"
+  /> 
+  </a>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+      alt="python" 
+      width="40" 
+      height="40"
+    /> 
+  </a>
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
+      alt="nodejs" 
+      width="40" 
+      height="40"
+    /> 
+  </a>
+
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
+      alt="express" 
+      width="40" 
+      height="40"
+    /> 
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+      alt="mongodb" 
+      width="40" 
+      height="40"
+    /> 
+  </a>
+
+  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
+    <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" 
+    alt="gulp" 
+    width="40" 
+    height="40"
+    /> 
+  </a>
+</div>
+
+---
+
+## Github Stats
+
+<div style="gap: 16px; display: flex; flex-wrap: wrap; align-items: center;">
+  <p>
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidmarrie&show_icons=true&locale=en" alt="zaidmarrie" />
+  </p>
+
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidmarrie&" alt="zaidmarrie" />
+  </p>
+</div>
