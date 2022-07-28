@@ -2,8 +2,6 @@
 
 I'm a Front-End Developer from South Africa🇿🇦. I work mostly with _HTML_, _CSS_, and _JavaScript_.I am most interested in the **MERN stack** and **JAMstack**. I also have a passion for programming in general and love working with technology to solve problems. Outside of development, I love drawing, coffee, bird-watch, and football.
 
----
-
 ## Connect with me
 
 <div style="gap: 16px; display: flex; flex-wrap: wrap; align-items: center;">
@@ -50,8 +48,6 @@ I'm a Front-End Developer from South Africa🇿🇦. I work mostly with _HTML_, 
     />
   </a> -->
 </div>
-
----
 
 ## Technologies and Tools:
 
@@ -127,8 +123,6 @@ I'm a Front-End Developer from South Africa🇿🇦. I work mostly with _HTML_, 
     /> 
   </a>
 </div>
-
----
 
 ## My Github Stats
 
