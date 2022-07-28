@@ -1,20 +1,6 @@
-# Hello World👋, I’m Zaid Marrie.
+# Greetings to you!👋 I'm Zaid Marrie.
 
----
-
-I'm a Web Developer based in _Johannesburg, South Africa_, with a passion for FrontEnd development.
-
-## Some details about me
-
-- 🔭 I’m currently working on [My Portfolio](www.zaid-codes.dev).
-
-- 🌱 I’m currently learning **NodeJS**.
-
-- 👀 I have an interest in the **JAMstack**.
-
-- 💞️ Looking for opportunities to **collaborate with others**.
-
-- ⚡ Fun fact **I enjoy creating cool animations**
+I'm a Front-End Developer from South Africa🇿🇦. I work mostly with _HTML_, _CSS_, and _JavaScript_.I am most interested in the **MERN stack** and **JAMstack**. I also have a passion for programming in general and love working with technology to solve problems. Outside of development, I love drawing, coffee, bird-watch, and football.
 
 ---
 
@@ -46,38 +32,30 @@ I'm a Web Developer based in _Johannesburg, South Africa_, with a passion for Fr
     />
   </a>
 
-  <a href="https://stackoverflow.com/users/zaidmarrie" target="blank">
+  <!-- <a href="https://stackoverflow.com/users/zaidmarrie" target="blank">
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
       alt="Stack Overflow Logo;" 
       height="30" 
       width="40" 
     />
-  </a>
+  </a> -->
 
-  <a href="https://www.leetcode.com/lekoels27" target="blank">
+  <!-- <a href="https://www.leetcode.com/lekoels27" target="blank">
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
       alt="Leet Code Logo;" 
       height="30" 
       width="40" 
     />
-  </a>
-
-  <!--<a href="https://www.youtube.com/channel/UCqh0eKD58Rt3pjkjXYnIkUA" target="blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Logo;" 
-      height="30" 
-      width="40" 
-    />
-  </a>-->
+  </a> -->
 </div>
 
 ---
 
 ## Technologies and Tools:
 
-<div style="gap: 16px; display: flex; flex-wrap: wrap; align-items: center;">
+<div style="gap: 16px; display: flex; flex-wrap: wrap; align-items: center; ">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
@@ -123,15 +101,6 @@ I'm a Web Developer based in _Johannesburg, South Africa_, with a passion for Fr
     /> 
   </a>
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
-      alt="typescript" 
-      width="40" 
-      height="40"
-    /> 
-  </a>
-
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
       alt="react" 
@@ -140,45 +109,10 @@ I'm a Web Developer based in _Johannesburg, South Africa_, with a passion for Fr
     /> 
   </a>
 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" 
-    alt="nextjs" 
-    width="40" 
-    height="40"
-  /> 
-  </a>
-
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
       alt="python" 
-      width="40" 
-      height="40"
-    /> 
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
-      alt="nodejs" 
-      width="40" 
-      height="40"
-    /> 
-  </a>
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
-      alt="express" 
-      width="40" 
-      height="40"
-    /> 
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
-      alt="mongodb" 
       width="40" 
       height="40"
     /> 
@@ -196,14 +130,14 @@ I'm a Web Developer based in _Johannesburg, South Africa_, with a passion for Fr
 
 ---
 
-## Github Stats
+## My Github Stats
 
-<div style="gap: 16px; display: flex; flex-wrap: wrap; align-items: center;">
+<div style="gap: 25px; display: flex; flex-wrap: wrap; align-items: center;">
   <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidmarrie&show_icons=true&locale=en" alt="zaidmarrie" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidmarrie&show_icons=true&theme=tokyonight&title_color=09d9d9&text_color=ffffff&icon_color=09d9d9&bg_color=333333&hide_border=true&locale=en" alt="zaidmarrie" />
   </p>
 
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidmarrie&" alt="zaidmarrie" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidmarrie&theme=dark&hide_border=true&background=333333&ring=09d9d9&currStreakLabel=09d9d9&fire=09d9d9" alt="zaidmarrie" />
   </p>
 </div>
