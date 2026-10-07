@@ -1,137 +1,31 @@
-# Greetings to you!👋 I'm Zaid Marrie.
+## 🌐 Socials:
 
-I'm a Front-End Developer from South Africa🇿🇦. I work mostly with _HTML_, _CSS_, and _JavaScript_.I am most interested in the **MERN stack** and **JAMstack**. I also have a passion for programming in general and love working with technology to solve problems. Outside of development, I love drawing, coffee, bird-watch, and football.
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thezaidmarrie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaidmarrie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidmarrie) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zaidmarrie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zaidmarrie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCqh0eKD58Rt3pjkjXYnIkUA)
 
-## Connect with me
+# 💻 Tech Stack:
 
-<div style="gap: 16px; display: flex; flex-wrap: wrap; align-items: center;">
-  <a href="https://linkedin.com/in/zaid-marrie" target="blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="Linked-In Logo;" 
-      height="30" 
-      width="40" 
-    />
-  </a>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-  <a href="https://twitter.com/lekoels27" target="blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Logo;"
-      height="30"
-      width="40" 
-    />
-  </a>
+# 📊 GitHub Stats:
 
-  <a href="https://codepen.io/lekoels27" target="blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Code Pen Logo;"
-      height="30"
-      width="40"
-    />
-  </a>
+![](https://github-readme-stats.shion.dev/api?username=ZaidMarrie&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ZaidMarrie&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZaidMarrie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <!-- <a href="https://stackoverflow.com/users/zaidmarrie" target="blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
-      alt="Stack Overflow Logo;" 
-      height="30" 
-      width="40" 
-    />
-  </a> -->
+## 🏆 GitHub Trophies
 
-  <!-- <a href="https://www.leetcode.com/lekoels27" target="blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-      alt="Leet Code Logo;" 
-      height="30" 
-      width="40" 
-    />
-  </a> -->
-</div>
+![](https://github-profile-trophy.vercel.app/?username=ZaidMarrie&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Technologies and Tools:
+### 🔝 Top Contributed Repo
 
-<div style="gap: 16px; display: flex; flex-wrap: wrap; align-items: center; ">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-      alt="html5" 
-      width="40" 
-      height="40"
-    /> 
-  </a>
+![](https://github-contributor-stats.vercel.app/api?username=ZaidMarrie&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-      alt="css3" 
-      width="40" 
-      height="40"
-    /> 
-  </a>
+---
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
-      alt="bootstrap" 
-      width="40" 
-      height="40"
-    /> 
-  </a>
+[![](https://komarev.com/ghpvc/?username=ZaidMarrie&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
-      alt="sass" 
-      width="40" 
-      height="40"
-    /> 
-  </a>
+## 💰 You can help me by Donating
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-      alt="javascript" 
-      width="40" 
-      height="40"
-    /> 
-  </a>
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lekoels27)
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-      alt="react" 
-      width="40" 
-      height="40"
-    /> 
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-      alt="python" 
-      width="40" 
-      height="40"
-    /> 
-  </a>
-
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
-    <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" 
-    alt="gulp" 
-    width="40" 
-    height="40"
-    /> 
-  </a>
-</div>
-
-## My Github Stats
-
-<div style="gap: 25px; display: flex; flex-wrap: wrap; align-items: center;">
-  <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidmarrie&show_icons=true&theme=tokyonight&title_color=09d9d9&text_color=ffffff&icon_color=09d9d9&bg_color=333333&hide_border=true&locale=en" alt="zaidmarrie" />
-  </p>
-
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidmarrie&theme=dark&hide_border=true&background=333333&ring=09d9d9&currStreakLabel=09d9d9&fire=09d9d9" alt="zaidmarrie" />
-  </p>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
