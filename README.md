@@ -1,31 +1,37 @@
-## 🌐 Socials:
+# Zaid Marrie
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thezaidmarrie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaidmarrie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidmarrie) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zaidmarrie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zaidmarrie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCqh0eKD58Rt3pjkjXYnIkUA)
+**[TAGLINE]**
 
-# 💻 Tech Stack:
+[CURRENTLY]
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+[![Website](https://img.shields.io/badge/Basqaid_Studio-000000?logo=safari&logoColor=white)](https://basqaidstudio.com)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/zaidmarrie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidmarrie)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/channel/UCqh0eKD58Rt3pjkjXYnIkUA)
 
-# 📊 GitHub Stats:
+Also on [Instagram](https://instagram.com/zaidmarrie) · [TikTok](https://tiktok.com/@zaidmarrie) · [Facebook](https://facebook.com/thezaidmarrie)
 
-![](https://github-readme-stats.shion.dev/api?username=ZaidMarrie&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ZaidMarrie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZaidMarrie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Featured work
 
-## 🏆 GitHub Trophies
+- **Ethereal**: [one-line outcome]. `Next.js` `Sanity` `Zustand`. [Live](https://ethereal-fashion-store-web.vercel.app)
+- **[Baardman](https://github.com/ZaidMarrie/baardman)**: [one-line outcome]. `Next.js` `Sanity` `Shopify` `TypeScript`.
+- **[Bang Retail](https://github.com/ZaidMarrie/bang-retail)**: [one-line outcome]. `Next.js` `Sanity` `Shopify` `TypeScript`.
 
-![](https://github-profile-trophy.vercel.app/?username=ZaidMarrie&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Stack
 
-### 🔝 Top Contributed Repo
+**Frontend:** TypeScript · React · Next.js · Tailwind CSS
+**CMS / backend:** Sanity · Node.js · Prisma · MongoDB
+**Tooling:** pnpm · Vite · Git · Vercel · Figma
 
-![](https://github-contributor-stats.vercel.app/api?username=ZaidMarrie&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Latest posts
 
----
+<!-- LATEST:START -->
+<!-- LATEST:END -->
 
-[![](https://komarev.com/ghpvc/?username=ZaidMarrie&icon=0&color=0)](https://visitcount.itsvg.in)
+## Get in touch
 
-## 💰 You can help me by Donating
+Reach me through [basqaidstudio.com](https://basqaidstudio.com).
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lekoels27)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- FOOTER BANNER: add image here -->
