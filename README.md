@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidmarrie)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/channel/UCqh0eKD58Rt3pjkjXYnIkUA)
 
-Also on [Instagram](https://instagram.com/zaidmarrie) · [TikTok](https://tiktok.com/@zaidmarrie) · [Facebook](https://facebook.com/thezaidmarrie)
+Also on · [LinkedIn](https://linkedin.com/in/zaidmarrie) · [Instagram](https://instagram.com/zaidmarrie) · [Facebook](https://facebook.com/thezaidmarrie) · [X (twitter)](https://x.com/zaidmarrie)
 
 ## Featured work
 
@@ -19,9 +19,9 @@ Also on [Instagram](https://instagram.com/zaidmarrie) · [TikTok](https://tiktok
 
 ## Stack
 
-**Frontend:** TypeScript · React · Next.js · Tailwind CSS
-**CMS / backend:** Sanity · Node.js · Prisma · MongoDB
-**Tooling:** pnpm · Vite · Git · Vercel · Figma
+- **Frontend:** TypeScript · React · Next.js · Tailwind CSS
+- **CMS / backend:** Sanity · Node.js · Prisma · MongoDB
+- **Tooling:** pnpm · Vite · Biome · Vercel · Figma
 
 ## Latest posts
 
