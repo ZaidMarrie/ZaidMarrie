@@ -1,0 +1,22 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: LATEST
+          feed_list: "https://basqaidstudio.com/rss.xml"
+          max_post_count: 3
+          commit_message: "Update latest blog posts"
+          template: "- [$title]($url) · $date\n"
+          date_format: "mmm dd, yyyy"
